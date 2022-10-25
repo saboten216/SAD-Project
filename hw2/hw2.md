@@ -17,6 +17,8 @@
     - [功能分解圖FDD](#%E5%8A%9F%E8%83%BD%E5%88%86%E8%A7%A3%E5%9C%96fdd)
     - [需求分析文字描述](#%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E6%96%87%E5%AD%97%E6%8F%8F%E8%BF%B0)
     - [使用案例圖與三個以上的使用案例說明](#%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96%E8%88%87%E4%B8%89%E5%80%8B%E4%BB%A5%E4%B8%8A%E7%9A%84%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E8%AA%AA%E6%98%8E)
+        - [- ### 使用案例圖](#---%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E5%9C%96)
+        - [- ### 使用案例說明](#---%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E8%AA%AA%E6%98%8E)
     - [用Figma劃出第一個使用案例的動態模擬畫面](#%E7%94%A8figma%E5%8A%83%E5%87%BA%E7%AC%AC%E4%B8%80%E5%80%8B%E4%BD%BF%E7%94%A8%E6%A1%88%E4%BE%8B%E7%9A%84%E5%8B%95%E6%85%8B%E6%A8%A1%E6%93%AC%E7%95%AB%E9%9D%A2)
 
 <!-- /TOC -->
@@ -110,3 +112,5 @@
 |假設|若該餐點售罄，則取消此訂單|
 
 ## 用Figma劃出第一個使用案例的動態模擬畫面
+
+[Figma 動態展示 - 模擬顧客下單](https://www.figma.com/proto/b24vdBKXHPL8fFq9U4im5q/Untitled?node-id=6%3A57&scaling=scale-down&page-id=0%3A1)
