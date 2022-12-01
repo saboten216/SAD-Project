@@ -71,7 +71,7 @@
 
 
 ## 功能分解圖FDD
-
+![](https://imgur.com/pnwSRCR)
 
 ## 需求分析文字描述
 
